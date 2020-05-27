@@ -1,0 +1,13 @@
+img {
+    width:450px;
+    height:auto;
+    border-radius:5px;
+    border-width:1px;
+    overflow:none;
+    border-color:#428bca;
+    border-style:solid;
+  }
+.container{
+    text-align: center;
+
+}
